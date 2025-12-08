@@ -24,24 +24,6 @@ Registrar, organizar e comprovar:
 
 Este repositório funciona como um portfólio completo, tanto para fins acadêmicos quanto profissionais.
 
-🛠️ Tecnologias e Ferramentas que utilizei
-
-Aqui você pode listar o que já usou no curso e nos projetos:
-
-Java | Python | Kotlin | JavaScript
-
-HTML | CSS | Bootstrap
-
-Git e GitHub
-
-VS Code | NetBeans | IntelliJ
-
-Figma
-
-MySQL / SQL
-
-IBM SkillsBuild e trilhas P-TECH
-
 Contato
 Caso queira entrar em contato ou ver mais dos meus trabalhos:
 
