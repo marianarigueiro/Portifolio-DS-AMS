@@ -24,7 +24,6 @@ Registrar, organizar e comprovar:
 
 Este repositório funciona como um portfólio completo, tanto para fins acadêmicos quanto profissionais.
 
-Contato
 Caso queira entrar em contato ou ver mais dos meus trabalhos:
 
 ✉️ Email: mariana.rigueiro1234@gmail.com
