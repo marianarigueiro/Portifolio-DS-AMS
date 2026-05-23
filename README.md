@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu portfólio acadêmico e profissional do curso Desenvolvimento de Sistemas – AMS (Articulação Médio-Superior) da ETEC, realizado em parceria com a IBM através do programa P-TECH.
 
-Aqui estão reunidos todos os projetos, atividades, documentações, trilhas e entregas desenvolvidas em 2024 e 2025, seguindo as propostas, desafios e capacitações oferecidas pela IBM.
+Aqui estão reunidos todos os projetos, atividades, documentações, trilhas e entregas desenvolvidas em 2024, 2025 e 2026 seguindo as propostas, desafios e capacitações oferecidas pela IBM.
 
 Repositório base de referência
 
